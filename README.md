@@ -5,10 +5,9 @@ A responsive portfolio website showcasing my profile, skills, projects and profe
 
 ## Live Portfolio
 
-https://vercel.com/avengers-5655/portfolio
-Keep it near the top.
-<img width="1920" height="1080" alt="Screenshot 2026-10-15 100501" src="https://github.com/user-attachments/assets/633a2f70-85e9-4964-aa92-744e5bc5396a" />
-<img width="1920" height="1080" alt="Screenshot 2026-10-15 100455" src="https://github.com/user-attachments/assets/eb72f3f5-e89f-4243-905f-3fa57af5d5f3" />
+https://htmlpreview.github.io/?https://github.com/jatinsamra9525-boop/Portfolio/blob/main/index.html
+<img width="1920" height="1080" alt="Screenshot 1" src="screenshot-1.png" />
+<img width="1920" height="1080" alt="Screenshot 2" src="screenshot-2.png" />
 
 
 For a portfolio, use:
